@@ -21,10 +21,10 @@ IDE: Microsoft Visual Studio 2017 Professional
 <br/>
 <br/>
 编写程序，完成一个简单的客户/服务器程序设计：<br/>
-*使用控制台界面，命令行格式为：<br/>
+• 使用控制台界面，命令行格式为：<br/>
    Server.exe < TCP server port > <br>
    Client.exe < TCP Server IP > < TCP Server Port > <br>
-*首先Server创建2个socket，分别为TCP server socket（由命令行参数指定）和UDP server socket（端口号自定义）。Server在这两个端口上侦听连接，接受来自客户端的服务请求。 <br/>
+• 首先Server创建2个socket，分别为TCP server socket（由命令行参数指定）和UDP server socket（端口号自定义）。Server在这两个端口上侦听连接，接受来自客户端的服务请求。 <br/>
 •	Client程序也分别创建一个TCP和UDP socket。首先Client使用TCP socket连接TCP Server。建立连接后，Server先向Client发送自己的UDP 端口号和启动命令字符串“START”。Client在收到后为用户显示3个服务选项：<br/>
    1. Get current time（TCP）<br/>
    2. Echo Mode（UDP）<br/>
