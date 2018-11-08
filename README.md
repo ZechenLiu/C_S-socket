@@ -30,4 +30,7 @@ IDE: Microsoft Visual Studio 2017 Professional
    2. Echo Mode（UDP）<br/>
    3. Exit the program <br/>
 •	对于Client和Server两端都应输出必要的日志、出错或诊断信息以进行提示。<br/>
+<br/>
+<br/>
+![程序运行的参考界面（client)]
 
