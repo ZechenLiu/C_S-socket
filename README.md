@@ -8,7 +8,7 @@ Author: 刘泽辰
 Address: CUFE http://ie.cufe.edu.cn/
 <br/>
 <br/>
-origin code :https://download.csdn.net/download/zdm11/5612251?tdsourcetag=s_pcqq_aiomsg
+origin code: https://download.csdn.net/download/zdm11/5612251?tdsourcetag=s_pcqq_aiomsg
 <br/>
 (The origin code can only be run on VC++6.0. I modified it so that it could be run on VS2017.)
 <br/>
