@@ -1,0 +1,5 @@
+﻿  server.cpp
+d:\microsoft visual studio\files\socket\server\server\server.cpp(127): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\microsoft visual studio\files\socket\server\server\server.cpp(160): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\microsoft visual studio\files\socket\server\server\server.cpp(220): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  server.vcxproj -> D:\Microsoft Visual Studio\files\socket\server\x64\Debug\server.exe
