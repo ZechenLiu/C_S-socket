@@ -34,5 +34,5 @@ IDE: Microsoft Visual Studio 2017 Professional
 <br/>
 程序运行的参考界面（client)(https://github.com/ZechenLiu/C_S-socket/blob/master/%E7%A8%8B%E5%BA%8F%E8%BF%90%E8%A1%8C%E7%9A%84%E5%8F%82%E8%80%83%E7%95%8C%E9%9D%A2%EF%BC%88client%EF%BC%89.png)
 <br/>
-程序运行的参考界面（server）
+程序运行的参考界面（server）（https://github.com/ZechenLiu/C_S-socket/blob/master/%E7%A8%8B%E5%BA%8F%E8%BF%90%E8%A1%8C%E7%9A%84%E5%8F%82%E8%80%83%E7%95%8C%E9%9D%A2%EF%BC%88server%EF%BC%89.png）
 
