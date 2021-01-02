@@ -1,5 +1,5 @@
 # C_S-socket
- 基于C_S结构的Socket程序设计
+ 基于C-S结构的Socket程序设计
 <br/>
 <br/>
 Author: 刘泽辰
